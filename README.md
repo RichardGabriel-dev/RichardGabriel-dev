@@ -1,5 +1,5 @@
 ## Olá 👋 me chamo, richard gabriel
-<h3>Sou um estudante de programação do curso DevClub.</h3>
+<h3>Sou um estudante de programação do curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</h3>
 <br>
 <h2>MEUS CONTATOS</h2>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">richarddgabri@gmail.com 
